@@ -3,6 +3,7 @@ import 'package:fitness_gym_app/utils/constants.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatelessWidget {
+  // SignUp-login Button
   InkWell buildbuttonContainer({Color buttonColor, String title, context}) {
     return InkWell(
       onTap: () {
