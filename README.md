@@ -1,16 +1,12 @@
 # fitness_gym_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Fitness App
 
-A few resources to get you started if this is your first Flutter project:
+# Splash Page
+# Home Page
+# Activity Page
+This is the Final UI you will get !!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4307026](https://user-images.githubusercontent.com/62948764/119603384-cc376700-be0c-11eb-8d82-3da3c76a67ba.jpg)
